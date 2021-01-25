@@ -24,4 +24,4 @@ run/*
 runServer/*
 !runServer/eula.txt
 !runServer/server.properties
-
+classes
